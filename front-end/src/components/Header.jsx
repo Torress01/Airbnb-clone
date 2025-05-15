@@ -9,7 +9,7 @@ const Header = () => {
           <img
             className="h-10 pr-2"
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fYsTmR0-TXLa06mx13LRXBgbNyBgylU3cw&s"
-            alt="Hashtag Logo"
+            alt="Airbnb Logo"
           />
           <p className="text-prymary-400 text-2xl font-bold">airbnb</p>
         </Link>

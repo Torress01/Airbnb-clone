@@ -1,5 +1,8 @@
 @import "tailwindcss";
 
 @theme {
+  --font-airbnb:
+    Airbnb Cereal VF, Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    Helvetica Neue, sans-serif;
   --color-prymary-400: #ff385c;
 }
