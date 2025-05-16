@@ -8,6 +8,6 @@ export const connectDB = async () => {
     await mongoose.connect(MONGO_URL);
     console.log("Conectou essa bomba");
   } catch (error) {
-    console.log("DEU ERRADO, num conectou nao", error);
+    console.log("deu ruim, num conectou nao", error);
   }
 };
